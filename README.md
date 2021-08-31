@@ -13,7 +13,6 @@
   <a> ᴥ Focando em desenvolvimento web front-end; </a> <br>
   <a> ᴥ Estudando JavaScript e Python; </a> <br>
   <a> ᴥ Apaixonada por cães! </a>
-  
 </div> 
 
   ##
@@ -24,12 +23,12 @@
   <img align="center" alt="isa-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/html5/html5-plain.svg"> <a>♡</a>
   <img align="center" alt="isa-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/python/python-plain.svg"> <a>♡</a>
   <img align="center" alt="isa-ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/photoshop/photoshop-plain.svg">
-  <img align="right" style="padding: 0px 0px 0px 20px; position: fixed;" alt="isa-isa" height="100" width="100" src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif">
- </div>
+  <img align="right" alt="isa-cat" height="100" width="100" src="https://i.pinimg.com/originals/48/5e/83/485e83ad5709e90ba5a0cffccb717e08.gif">
+</div>
  
  <br>
  
- <div style="display: inline_block; padding_top: 10px; align: right;"> 
+ <div style="display: inline_block; align: right;"> 
   <a href = "mailto:contatoisamarquess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isabela-marques-666348215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
