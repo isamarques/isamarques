@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-<a href="https://github.com/isamarques">
 <div>
   <h1> Oi, eu sou a Isa! :) </h1>
 </div>
