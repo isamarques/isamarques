@@ -11,7 +11,7 @@
    <a> ᴥ Moro em São Paulo - SP; </a> <br>
   <a> ᴥ Estudando Análise e Desenvolvimento de Sistemas; </a> <br>
   <a> ᴥ Focando em desenvolvimento web front-end; </a> <br>
-  <a> ᴥ Estudando JavaScript e Python; </a> <br>
+  <a> ᴥ Estudando JavaScript e Python pelo CS50; </a> <br>
   <a> ᴥ Apaixonada por cães! </a>
 </div> 
 
