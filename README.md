@@ -10,7 +10,7 @@
    <a> ᴥ Tenho 18 anos; </a> <br>
    <a> ᴥ Moro em São Paulo - SP; </a> <br>
   <a> ᴥ Estudando Análise e Desenvolvimento de Sistemas; </a> <br>
-  <a> ᴥ Focando em desenvolvimento web front-end; </a> <br>
+  <a> ᴥ Focando em desenvolvimento web back-end; </a> <br>
   <a> ᴥ Estudando JavaScript e Python pelo CS50; </a> <br>
   <a> ᴥ English B2 Upper Intermediate! </a> <br>
   <a> ᴥ Apaixonada por cães ♡ </a>
