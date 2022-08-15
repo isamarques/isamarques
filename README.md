@@ -1,5 +1,5 @@
 <div>
-  <h1> Oi, eu sou a Isa! :) </h1>
+  <h1> Hi, I'm Isa! Welcome to my page. </h1>
 </div>
 
 <div>
