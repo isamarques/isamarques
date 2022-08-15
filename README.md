@@ -3,17 +3,12 @@
 </div>
 
 <div>
-  <img align="right" alt="isa-isa" height="140" width="140" src="https://media.giphy.com/media/u8xUn2o99GBjP0zofa/giphy.gif?cid=790b7611fde6fb0d85e72337d25deee51b7529f9ab09f2c7&rid=giphy.gif&ct=g">
-</div>
-
-<div>
-   <a> ᴥ Tenho 18 anos; </a> <br>
-   <a> ᴥ Moro em São Paulo - SP; </a> <br>
-  <a> ᴥ Estudando Análise e Desenvolvimento de Sistemas; </a> <br>
-  <a> ᴥ Focando em desenvolvimento back-end; </a> <br>
-  <a> ᴥ Estudando Python pelo CS50 e Java pela Alura; </a> <br>
-  <a> ᴥ English B2 Upper Intermediate! </a> <br>
-  <a> ᴥ Apaixonada por cães ♡ </a>
+   <a> ᴥ 18yo </a> <br>
+  <a> ᴥ Analysis and Systems Development </a> <br>
+  <a> ᴥ Back-end Development </a> <br>
+  <a> ᴥ Java, Python and PHP </a> <br>
+  <a> ᴥ English upper intermediate and Portuguese native </a> <br>
+  <a> ᴥ Pink lover ♡ </a>
 </div> 
 
   ##
