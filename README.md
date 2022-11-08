@@ -12,9 +12,8 @@
   <a> ᴥ Inglês intermediário avançado </a> <br> <br>
    
 <div align="center">
-  <a href="https://github.com/isamarques">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isamarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamarques&layout=compact&langs_count=7&theme=dracula"/> <br>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isamarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamarques&layout=compact&langs_count=7&theme=dracula"> <br>
   <a> Conheça mais sobre meus projetos clicando em repositórios <3 </a>
 </div>
   
