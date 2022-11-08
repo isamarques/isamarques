@@ -3,13 +3,15 @@
 </div>
 
 <div>
-   <a> ᴥ 19 anos </a> <br>
   <a> ᴥ Análise e Desenvolvimento de Sistemas </a> <br>
   <a> ᴥ Desenvolvimento Front-End </a> <br>
   <a> ᴥ Java, HTML, CSS e JavaScript </a> <br>
   <a> ᴥ UI/UX Design </a> <br>
   <a> ᴥ Modelagem, prototipação, experiência do usuário </a> <br>
-  <a> ᴥ Inglês intermediário avançado </a> <br>
+  <a> ᴥ Photoshop, Figma e SonyVegas </a> <br>
+  <a> ᴥ Inglês intermediário avançado </a> <br> <br>
+  
+  <a> Conheça mais sobre meus projetos clicando em repositórios <3 </a> <br>
 </div> 
 
   ##
@@ -22,8 +24,10 @@
 </div>
  
  <br>
- 
- <div style="display: inline_block; align: right;"> 
-  <a href="mailto:contatoisamarquess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    
+ <div style="display: inline_block; width: max-content;">
+  <div style="display: inline_block; align: right;"> 
+    <a> Quer conversar comigo? Entre em contato pelo LinkedIn! </a> <br>
   <a href="https://www.linkedin.com/in/isabela-marques15/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 </div>
