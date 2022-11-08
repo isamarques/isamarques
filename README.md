@@ -1,14 +1,15 @@
 <div>
-  <h1> Hi, I'm Isa! Welcome to my page. </h1>
+  <h1> Olá, sou a Isa! </h1>
 </div>
 
 <div>
-   <a> ᴥ 18yo </a> <br>
-  <a> ᴥ Analysis and Systems Development </a> <br>
-  <a> ᴥ Back-end Development </a> <br>
-  <a> ᴥ Java, Python and PHP </a> <br>
-  <a> ᴥ English upper intermediate and Portuguese native </a> <br>
-  <a> ᴥ Pink lover ♡ </a>
+   <a> ᴥ 19 anos </a> <br>
+  <a> ᴥ Análise e Desenvolvimento de Sistemas </a> <br>
+  <a> ᴥ Desenvolvimento Front-End </a> <br>
+  <a> ᴥ Java, HTML, CSS e JavaScript </a> <br>
+  <a> ᴥ UI/UX Design </a> <br>
+  <a> ᴥ Modelagem, prototipação, experiência do usuário </a> <br>
+  <a> ᴥ Inglês intermediário avançado </a> <br>
 </div> 
 
   ##
